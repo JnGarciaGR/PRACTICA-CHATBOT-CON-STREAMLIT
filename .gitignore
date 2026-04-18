@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos sensibles
+*.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
