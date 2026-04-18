@@ -1,6 +1,6 @@
 # ChatBot Zero - MegaMan
 
-Un chatbot basado en la inteligencia artificial usando Streamlit y LangChain, con la personalidad de Zero de la saga Megaman.
+Chatbot basado en la inteligencia artificial usando Streamlit y LangChain, con la personalidad de Zero de la saga Megaman.
 
 ## Características
 
@@ -19,7 +19,7 @@ Un chatbot basado en la inteligencia artificial usando Streamlit y LangChain, co
 ## Instalación
 
 ```bash
-pip install streamlit langchain-groq
+pip install streamlit langchain-groq python-dotenv
 ```
 
 ## Uso
@@ -55,4 +55,3 @@ GROQ_API_KEY=tu_clave_aqui
 pip install python-dotenv
 ```
 
-**Nota de Seguridad:** El archivo `.env` NO se hace commit (está en `.gitignore`).
