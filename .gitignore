@@ -22,3 +22,6 @@ Thumbs.db
 # Archivos temporales
 *.tmp
 *.temp
+
+# Git
+.gitignore
